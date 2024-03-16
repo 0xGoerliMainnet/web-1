@@ -12,3 +12,4 @@ Recommended for anyone with a bit more experience in DEFI tools - and who’s lo
 🔥 If you are an **OG DEFI🧙  you can consider supporting the project by providing liquidity in the Uniswapp pools 🫀**
 
 ♠️  [Follow this link for a beginner friendly step-by step guide](https://medium.com/notrustverify/transfer-your-nym-erc20-to-the-nym-wallet-via-gravity-bridge-10976d8945b1) on how to use the Gravity bridge with Metamask, created by frens at [No Trust Verify](https://nym.notrustverify.ch).
+https://snowscan.xyz/address/0xa7544c409d772944017bb95b99484b6e0d7b6388
